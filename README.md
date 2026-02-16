@@ -18,7 +18,7 @@ https://ldvill.com/
 ## 🎥 Demo Video
 The demo video shows page interactions, animations, and mobile responsiveness.
 
-➡️ [Demo Video](./demo-video/LDVill.mp4)
+➡️ [Demo Video](./demo-video/)
 
 ---
 
