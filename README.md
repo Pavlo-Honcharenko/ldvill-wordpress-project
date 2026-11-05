@@ -34,7 +34,7 @@ The website also includes a multilingual setup using **Polylang**, a contact for
 ## 🛠️ Technologies Used
 - WordPress  
 - Custom Theme Development  
-- ACF Pro (Flexible Content, Options Page)  
+- Advanced Custom Fields (ACF)  
 - Contact Form 7  
 - Polylang  
 - HTML5  
