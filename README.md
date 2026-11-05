@@ -49,7 +49,7 @@ The website also includes a multilingual setup using **Polylang**, a contact for
 - Fully responsive layout  
 - Custom WordPress theme  
 - ACF-powered dynamic sections  
-- Multilingual support (EN/FR if needed)  
+- Polylang: Hungarian, English, German, Russian, Ukrainian  
 - Custom JavaScript interactions and animations  
 - Contact form setup  
 - Backup & security configuration  
